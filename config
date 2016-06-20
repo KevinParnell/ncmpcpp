@@ -42,10 +42,10 @@ state_flags_color = "blue"
 main_window_color = "blue"
 color1 = "cyan"
 color2 = "black"
-main_window_highlight_color = "red"
+main_window_highlight_color = "blue"
 progressbar_color = "blue"
 statusbar_color = "white"
-active_column_color = "red"
+active_column_color = "cyan"
 visualizer_color = "blue"
 
 # Others
