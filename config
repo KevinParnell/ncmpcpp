@@ -46,10 +46,9 @@ main_window_highlight_color = "blue"
 progressbar_color = "blue"
 statusbar_color = "white"
 active_column_color = "cyan"
-visualizer_color = "blue"
 
 # Others
-song_window_title_format = "MPD: {%a > }{%t}{ [%b{ Disc %d}]}|{%f}"
+song_window_title_format = "MPD: {%a - }{%t}{ [%b{ Disc %d}]}|{%f}"
 search_engine_display_mode = "columns" (classic/columns)
 follow_now_playing_lyrics = "yes"
 mpd_host = "127.0.0.1"
